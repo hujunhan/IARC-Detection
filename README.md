@@ -7,7 +7,7 @@ Using OpenCV’s cascade classifier
 
 ### Positive Samples
 
-Because the shape of the robots is almost like a circle, so we can use HOG circle detection to get positive samples
+Because of the shape of the robots is almost like a circle, we can use HOG circle detection to get positive samples
 
 And the robots’ appearance is pretty steady, so we can generate a bunch of positive samples by rotating and changing the intensity of a single image.
 
