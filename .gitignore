@@ -3,6 +3,7 @@
 .idea/
 cmake-build-debug/
 **/*.bmp
+
 bin/
 # Compiled Object files
 *.slo
@@ -30,6 +31,6 @@ bin/
 *.lib
 
 # Executables
-*.exe
+
 *.out
 *.app
