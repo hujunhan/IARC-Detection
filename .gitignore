@@ -2,6 +2,8 @@
 *.d
 .idea/
 cmake-build-debug/
+**/*.bmp
+bin/
 # Compiled Object files
 *.slo
 *.lo
